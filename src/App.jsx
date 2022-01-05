@@ -1,4 +1,7 @@
 import './App.css'
+import './components/left-menu.css'
+import './components/email-toolbar.css'
+import './components/email-action-buttons.css'
 
 import flaticonWelcomeImage from './assets/images/flaticon-welcome-image.png'
 import backArrow from './assets/icons/back-arrow.png'
